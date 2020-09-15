@@ -6,4 +6,3 @@ usage:
 then enter the path of your file including its name
 a "users.txt" will be created inside the directory where the tool is located
 be aware if there is a "users.txt" already exist, it will be modified!
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
